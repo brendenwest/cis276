@@ -1,58 +1,50 @@
-# AD 450 - Intro to Data Science Development
+# CIS 276 - Python Data Analysis
 
 ### Class Details
-- Location: IB 3309
-- Time: Hybrid, Thurs 6:00 - 8:40pm
-- Dates: 1/4/2022 - 3/23/2022
-- Instructor: Brenden West | brenden.west@seattlecolleges.edu
+- Location: online
+- Time: Optional zoom Wed. 6:00 - 7:30 pm
+- Dates: 1/4/2023 - 3/22/2023
+- Instructor: Brenden West | bwest@pierce.ctc.edu
 - Credits: 5
-- Prerequisites: AD 315, AD 325, & acceptance into AD-BAS program or instructor permission
+- Prerequisites: CIS 122 and Math 146, both with a 2.0 or higher, or instructor permission
 
-Note: Students should be familiar with Python programming, SQL database queries, basic statistics, and source control with git & Github.
-Summary
+Note: Students should be familiar with Python programming, SQL database queries, and basic statistics.
 
-This class introduces core concepts of data science with a focus on the Python programming tools. Students will learn and exercise key skills used by professional data engineers, data analysts, and data scientists.
+### Summary
+
+This is the first of two classes on Data Analytics programming. Students will learn common tools and techniques for descriptive analytics with the Python programming language. Use Data Analytics tools, create data visualizations, get, clean, prepare and analyze data.
   
 ### Required Materials
 This course will make use of the following textbooks as well as relevant online resources:
-- Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd edition. Wes McKinney
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition. Aurélien Géron
+-  [Murach's Python for Data Analysis](https://www.murach.com/shop/murach-s-python-for-data-analysis-detail)
 
-These books should be accessible free of charge through OReilly Books online, but can also be purchased as hard copy if desired.
-
-Students will need the following development resources:
+Students will also need the following development resources:
 - A https://colab.research.google.com/ account
-- A https://github.com account
 - A https://datacamp.com  account
 
-Students choosing to use their own personal computer will need to install Python 3.8+ as well as the Jupyter notebook application.  https://www.anaconda.com/distribution/ is a good option for this.
+Students choosing to program on their own computer will need to install Python 3.9+ as well as the Jupyter notebook application.  https://www.anaconda.com/distribution/ is a good option for this.
 
 ### Class Structure & Topics
 
-Each week students will have assigned reading, tutorials or video lectures, as well as in-class lecture and exercises covering the following topics. Sequence and precise list is subject to revision:
-- Intro to Data Science
-- Python for data science
-- Data handling with NumPy & Pandas
-- Data visualization
-- Exploratory statistics
-- Time series and categorical data analysis
-- Probability & hypothesis testing
-- Prediction and classification
-- Introductory Machine Learning
-- Data Science ethics
+Each week students will have assigned reading, tutorials or video lectures, as well as lecture and exercises covering the following topics. Sequence and precise list is subject to revision:
+
+- Intro to Python Data Analysis
+– Intro to Pandas data analysis
+– Pandas dataframes
+– Data Visualization
+- Statistical Charts
+- Data Acquisition
+- Data Cleaning
+- Data grouping and aggregation
+- Time Series Analysis
+- Intro to Predictive Analysis
+- Predictions with Multiple Regression
 
 ### Grading
 
 Grades will be based on regular assignments (85%) and 3 quizzes (15%).
 
-Homework assignments will be posted on Canvas each Monday and are designed to exercise the skills and concepts covered that week.
-Assignments are due by the following Sunday and late assignments may be automatically marked down by 10%.
 
-Students should publish completed programming assignments to their github.com repository and submit the repository link in Canvas. Successful submissions can downloadable from that repository, and should execute in Google Colab without errors.
-
-You may discuss how to approach a problem with other students in the class, but your submission must be your own work. Submissions that are substantially identical would be considered cheating and subject to a markdown penalty.
-
-Quizzes will be administered via Canvas and must be completed during the specified time frame to receive credit.
 
 ### Resources
 - https://greenteapress.com/wp/think-stats-2e/
@@ -61,6 +53,3 @@ Quizzes will be administered via Canvas and must be completed during the specifi
 - https://www.inferentialthinking.com/chapters/intro
 - https://www.dataquest.io/
 
-Note: NSC students can access many technical reference books free of charge through: https://sbctc-seattlecolleges.primo.exlibrisgroup.com/discovery/search?vid=01STATEWA_SEATTLE:NSEATTLE
-
-(you may need to access online texts via this link - https://learning.oreilly.com/home/)

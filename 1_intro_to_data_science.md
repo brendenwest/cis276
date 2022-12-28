@@ -2,8 +2,9 @@
 
 ### Reading
 
-- https://colab.research.google.com/notebooks/intro.ipynb  (& Working with Notebooks)
-- McKinney - Chapters 1 - 3
+- Murach's Python for Data Analysis, Ch. 1
+- https://colab.research.google.com/notebooks/intro.ipynb
+- https://colab.research.google.com/notebooks/basic_features_overview.ipynb
 - https://docs.google.com/presentation/d/1D5YCiwSYCOz_kJWtnA5D4-0zvhaNajWkQH5p5I352bQ/edit?usp=sharing 
 - https://towardsdatascience.com/what-type-of-data-scientist-are-you-84c3c2b9fc16
 
@@ -18,11 +19,10 @@
 
  
 ### Learning Outcomes
-- What is data science (DS)
+- What is data analysis? How does it relate to data science?
 - DS professional roles 
 - Software tools & techniques used in DS
-- Python -v- R -v- Julia
-- Jupyter notebooks
+- Why Python is used for data analysis
+- Common Python data analysis tools
 - Python refresher
-- Common python DS libraries - numpy, pandas, matplotlib, scikit-learn
 - Installing Python libraries
