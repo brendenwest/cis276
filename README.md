@@ -3,7 +3,7 @@
 ### Class Details
 - Location: online
 - Time: Optional zoom Wed. 6:00 - 7:30 pm
-- Dates: 1/4/2023 - 3/22/2023
+- Dates: 1/3/2024 - 3/21/2024
 - Instructor: Brenden West | bwest@pierce.ctc.edu
 - Credits: 5
 - Prerequisites: CIS 122 and Math 146, both with a 2.0 or higher, or instructor permission
@@ -24,32 +24,44 @@ Students will also need the following development resources:
 
 Students choosing to program on their own computer will need to install Python 3.9+ as well as the Jupyter notebook application.  https://www.anaconda.com/distribution/ is a good option for this.
 
+### Other Resources
+- https://greenteapress.com/wp/think-stats-2e/
+- https://www.learnpython.org/
+- https://www.datacamp.com/tracks/data-scientist-with-python
+- https://www.inferentialthinking.com/chapters/intro
+- https://www.dataquest.io/
+
 ### Class Structure & Topics
 
 Each week students will have assigned reading, tutorials or video lectures, as well as lecture and exercises covering the following topics. Sequence and precise list is subject to revision:
 
-- Intro to Python Data Analysis
-– Intro to Pandas data analysis
-– Pandas dataframes
-– Data Visualization
-- Statistical Charts
+- Intro to Python data analysis
+– Intro to Numpy & Pandas 
+- Using Jupyter notebooks
+– Data Visualization with Python and PowerBI
 - Data Acquisition
-- Data Cleaning
+- Data Cleaning & reshaping
 - Data grouping and aggregation
-- Time Series Analysis
+- Time Series analysis
+- Geospatial data analysis
+- Natural Language processing
 - Intro to Predictive Analysis
-- Predictions with Multiple Regression
 
 ### Grading
 
-Grades will be based on regular assignments (85%) and 3 quizzes (15%).
+Grades will be based on regular assignments (85%) and 3 quizzes (15%). Final grades are determined according to Pierce College's default grading scheme.
 
-
-
-### Resources
-- https://greenteapress.com/wp/think-stats-2e/
-- https://www.learnpython.org/
-- https://www.datacamp.com/tracks/data-scientist-with-python 
-- https://www.inferentialthinking.com/chapters/intro
-- https://www.dataquest.io/
+Letter Grade	Range
+A               100% to 94%
+A-              < 94% to 90%
+B+              < 90% to 87%
+B               < 87% to 84%
+B-              < 84% to 80%
+C+              < 80% to 77%
+C               < 77% to 74%
+C-              < 74% to 70%
+D+              < 70% to 67%
+D               < 67% to 64%
+D-              < 64% to 61%
+F               < 61% to 0%
 
